@@ -36,7 +36,7 @@ Since this project relies entirely on Python's built-in libraries, you don't nee
 
 2. **Navigate to the project directory**
     ```bash
-    cd your-repo-name
+    cd dijkstra-visualizer
     ```
 
 3. **Run the script:**
