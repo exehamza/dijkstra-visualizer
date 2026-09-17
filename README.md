@@ -31,7 +31,7 @@ Since this project relies entirely on Python's built-in libraries, you don't nee
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/exehamza/dijkstra-visualizer.git](https://github.com/exehamza/dijkstra-visualizer.git)
+   git clone https://github.com/exehamza/dijkstra-visualizer.git
     ```
 
 2. **Navigate to the project directory**
